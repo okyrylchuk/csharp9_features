@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionPointers", "FunctionPointers.csproj", "{81887F58-A6D2-42A5-89E2-CDD75E964865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81887F58-A6D2-42A5-89E2-CDD75E964865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81887F58-A6D2-42A5-89E2-CDD75E964865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81887F58-A6D2-42A5-89E2-CDD75E964865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81887F58-A6D2-42A5-89E2-CDD75E964865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDF61DA8-D4C6-42AD-B36C-FBDAB5CCFB1D}
+	EndGlobalSection
+EndGlobal

@@ -2,6 +2,7 @@
 
 namespace ConstructorsAndDeconstructorsInRecords
 {
+    // Example from tweet https://twitter.com/okyrylchuk/status/1418632003004551168
     class Program
     {
         // Positional record

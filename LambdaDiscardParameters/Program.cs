@@ -18,7 +18,7 @@ namespace LambdaDiscardParameters
             }
 
             Button button = new();
-            button.Click += (s, e) => PrintHelloWorld();
+            button.Click += (_, _) => PrintHelloWorld();
         }
 
         #region C#8 version
